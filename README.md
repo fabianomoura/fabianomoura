@@ -1,4 +1,6 @@
-## Hi there 👋
+My name is Fabiano Moura and I have been a developer since 2002.
+Currently, I am the IT Coordinator at Hospital das Clínicas de Bauru, where I lead 13 people.
+If you want to know more about me, just go to https://www.linkedin.com/in/tifabianomoura/ .
 
 <!--
 **fabianomoura/fabianomoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
